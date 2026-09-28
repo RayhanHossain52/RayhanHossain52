@@ -97,39 +97,6 @@
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=rayhanhossain52&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Rayhan's GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhossain52&layout=compact&hide_border=true&langs_count=8"
-    alt="Rayhan's Top Languages"
-    height="180"
-  />
-
-
-
-
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=rayhanhossain52&show_icons=true&hide_border=true&rank_icon=github"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhossain52&layout=compact&hide_border=true&langs_count=8"
-/>
-</p>
-
-
-
----
-
 <!-- ======================= GITHUB STREAK ======================= -->
 
 ## 🔥 GitHub Streak
