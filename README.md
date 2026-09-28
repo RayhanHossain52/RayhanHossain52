@@ -9,9 +9,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/rayhanhossain52">
-    <img src="https://komarev.com/ghpvc/?username=rayhanhossain52&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=rayhanhossain52&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -33,19 +34,32 @@
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/rayhanhossain52" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="45"
+      height="45"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="https://github.com/rayhanhossain52" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
-</a>
+  <a href="https://facebook.com/1jefjdndu3" target="_blank">
+    <img
+      src="https://skillicons.dev/icons?i=facebook"
+      width="45"
+      height="45"
+      alt="Facebook"
+    />
+  </a>
 
-<a href="https://facebook.com/1jefjdndu3" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook"/>
-</a>
-
-<a href="mailto:rayhanpersonal52@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Gmail"/>
-</a>
-
+  <a href="mailto:rayhanpersonal52@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="45"
+      height="45"
+      alt="Gmail"
+    />
+  </a>
 </p>
 
 ---
@@ -57,19 +71,28 @@
 ### 💻 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"
+    alt="Frontend Technologies"
+  />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"
+    alt="Backend Technologies"
+  />
 </p>
 
 ### 🔧 Tools & Other Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,python,java,linux" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,figma,python,linux"
+    alt="Tools and Technologies"
+  />
 </p>
 
 ---
@@ -79,12 +102,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rayhanhossain52&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rayhanhossain52&show_icons=true&hide_border=true&rank_icon=github"
     alt="Rayhan's GitHub Stats"
     height="180"
   />
-  <img 
+
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanhossain52&layout=compact&hide_border=true&langs_count=8"
     alt="Rayhan's Top Languages"
     height="180"
@@ -93,27 +117,14 @@
 
 ---
 
-<!-- ======================= STREAK ======================= -->
+<!-- ======================= GITHUB STREAK ======================= -->
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com/?user=rayhanhossain52&hide_border=true"
     alt="Rayhan's GitHub Streak"
-  />
-</p>
-
----
-
-<!-- ======================= ACTIVITY ======================= -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanhossain52&hide_border=true"
-    alt="Rayhan's Contribution Graph"
   />
 </p>
 
