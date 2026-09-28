@@ -43,14 +43,14 @@
     />
   </a>
 
-  <a href="https://facebook.com/1jefjdndu3" target="_blank">
-    <img
-      src="https://skillicons.dev/icons?i=facebook"
-      width="45"
-      height="45"
-      alt="Facebook"
-    />
-  </a>
+<a href="https://www.facebook.com/share/1JeFJdNdu3/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=facebook"
+    width="45"
+    height="45"
+    alt="Facebook"
+  />
+</a>
 
   <a href="mailto:rayhanpersonal52@gmail.com">
     <img
