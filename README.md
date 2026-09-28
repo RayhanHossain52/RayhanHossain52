@@ -45,7 +45,7 @@
 
 <a href="https://www.facebook.com/share/1JeFJdNdu3/" target="_blank" rel="noreferrer">
   <img
-    src="https://skillicons.dev/icons?i=facebook"
+    src="https://cdn.simpleicons.org/facebook/1877F2"
     width="45"
     height="45"
     alt="Facebook"
