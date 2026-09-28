@@ -1,9 +1,15 @@
-### Hi there 👋
-
-<!--
-**yourusername/yourusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Rayhan Hossain</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+
+- 🔭 I’m currently working on **Next.js Project**
+
+- 🌱 I’m currently learning **Next.js, Node.js, API Integration, MongoDB**
+
+- 💬 Ask me about **react, Next.js**
+
+- 📫 How to reach me **rayhanpersonal52@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning ideas into code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,15 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanhossain52&show_icons=true&locale=en" alt="rayhanhossain52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanhossain52&" alt="rayhanhossain52" /></p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
